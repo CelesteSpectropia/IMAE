@@ -132,6 +132,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - skills-lock.json
 
 collections:
   pages:
